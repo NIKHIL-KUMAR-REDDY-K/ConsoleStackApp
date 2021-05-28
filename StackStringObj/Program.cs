@@ -20,6 +20,7 @@ namespace StackStringObj
             s.Push("string2");
             s.Push("string4");
             s.Push("string5");
+            s.Push("stringFeature6");
 
             Display(s);
             //after displaying we got the string5 as first input
