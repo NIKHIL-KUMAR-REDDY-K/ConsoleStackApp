@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitKO\\GITUSINGHUB\\Test1\\ConsoleStackApp\\StackStringObj\\StackStringObj.csproj",
+      "projectUniqueName": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitKO\\GITUSINGHUB\\Test2\\ConsoleStackApp\\StackStringObj\\StackStringObj.csproj",
       "projectName": "StackStringObj",
-      "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitKO\\GITUSINGHUB\\Test1\\ConsoleStackApp\\StackStringObj\\StackStringObj.csproj",
+      "projectPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitKO\\GITUSINGHUB\\Test2\\ConsoleStackApp\\StackStringObj\\StackStringObj.csproj",
       "packagesPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitKO\\GITUSINGHUB\\Test1\\ConsoleStackApp\\StackStringObj\\obj\\",
+      "outputPath": "C:\\Users\\K NIKHIL KUMAR REDDY\\OneDrive\\Desktop\\GitKO\\GITUSINGHUB\\Test2\\ConsoleStackApp\\StackStringObj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
