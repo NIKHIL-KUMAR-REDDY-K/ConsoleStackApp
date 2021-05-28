@@ -22,7 +22,10 @@ namespace StackStringObj
             s.Push("string5");
             s.Push("string6");
             Console.WriteLine( "We are inside Test 1");
+
+            Console.WriteLine("We are still in inside Test 1");
             Console.WriteLine("We are inside Test 2");
+
 
             Display(s);
             //after displaying we got the string5 as first input
